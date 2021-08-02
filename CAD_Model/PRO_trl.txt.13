@@ -1,0 +1,15 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Message Dialog: Warning
+!               : Unable to get required Creo Simulate license.
+!               : Please contact your sales representative.
+~ FocusIn `UI Message Dialog` `ok`
+~ Close `UI Message Dialog` `UI Message Dialog`
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!ODUI external UI session start for device : sim_dlg_mdl_type 
+~ Close `main_dlg_cur` `main_dlg_cur`
+!mem_use INCREASE Blocks 1706371, AppSize 230455679, SysSize 264692168
+!Command ProCmdOSExit was pushed from the software.
+~ Activate `save_objects_dlg` `NoPush`
+!ODUI external UI session stop. 
+!End of Trail File
