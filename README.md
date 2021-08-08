@@ -27,7 +27,7 @@
 ### Image Processing & Decision Making
 
 * Made image gray by a threshold.
-* Find the center point of the road then used MSE linear regression to decide direction of the robot.
+* Found the center point of the road then used MSE linear regression to decide direction of the robot.
 
 ![ex_screenshot4](./img/4.png)
 
