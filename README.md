@@ -3,7 +3,8 @@
 ## Final video
 [![self-walking_robot](http://img.youtube.com/vi/WUIT9uVVV3A/0.jpg)](https://www.youtube.com/watch?v=WUIT9uVVV3A&t=1s)
 
-## Making Self-walking_robot from ground
+## Goal
+Making self-walking robot from ground.
 
 ## Procedure
 
@@ -13,7 +14,7 @@
   
 ![ex_screenshot1](./img/1.png)
 
-* 3D design
+* 3D CAD design & Print using 3D printer
 
 
 ![ex_screenshot2](./img/2.png)
