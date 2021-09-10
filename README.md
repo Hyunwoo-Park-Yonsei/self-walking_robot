@@ -3,6 +3,8 @@
 ## Final video
 [![self-walking_robot](http://img.youtube.com/vi/WUIT9uVVV3A/0.jpg)](https://www.youtube.com/watch?v=WUIT9uVVV3A&t=1s)
 
+## Making Self-walking_robot from ground
+
 ## Procedure
 
 ### Mechanism design
